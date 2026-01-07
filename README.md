@@ -68,5 +68,3 @@ I am also deeply interested in **Linux** systems and **Software Engineering** pr
 ### 🧠 Continuous Learning & Lab
 
 *This serves as my technical laboratory ("Sandbox"). Here you will find my daily studies on programming logic, algorithms, database queries, and general coursework.*
-
-* ---
